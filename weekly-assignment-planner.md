@@ -1,6 +1,6 @@
 # Weekly Assignment Planner
 
-Use this template to organize assignments, deadlines, and next steps for the week. Copy the table rows or sections as needed.
+
 
 ## Week of: __________
 
